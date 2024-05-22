@@ -3,7 +3,7 @@
 ## Citation
 If you find this code useful for your research, please use the following BibTeX entry.
 
-"```@Article{s23239479,
+```@Article{s23239479,
 AUTHOR = {Li, Leyang and Cao, Guixing and Liu, Jun and Cai, Xiaohao},
 TITLE = {Remote Sensing Image Ship Matching Utilising Line Features for Resource-Limited Satellites},
 JOURNAL = {Sensors},
@@ -16,5 +16,5 @@ PubMedID = {38067852},
 ISSN = {1424-8220},
 DOI = {10.3390/s23239479}
 }
-"
+```
 
