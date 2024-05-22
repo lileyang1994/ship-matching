@@ -1,4 +1,4 @@
 # image-matching
-An Effective Image Matching Method Using Line Features in Outdoor Scene.
+Remote Sensing Image Ship Matching Utilising Line Features for Resource-Limited Satellites
 
-The test code will be published after the paper is published.
+
