@@ -95,7 +95,7 @@ def line_det(path):
 def get_desc(patches):
     descs = []
     for i in range(0, len(patches), 256):
-        data = patches[i:i + 256]
+        data = patches[i:i + 256].cuda()
         features = model(data)
         descs += features.detach().cpu().numpy().tolist()
     desc = np.array(descs, 'float32')
